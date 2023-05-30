@@ -1,5 +1,5 @@
 import React from "react";
-import { questionList } from "./questionList";
+import { questionList } from "../public/questionList";
 
 const index = () => {
   return (
